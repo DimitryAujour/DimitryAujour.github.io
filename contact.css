@@ -10,3 +10,24 @@ body{
     opacity: 0;
     transition: opacity 2s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
+footer{background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+#www{
+    padding-top: 12px;
+    width: 3%;
+    height: auto;}
+#linkedin{
+    padding-top: 20px;
+    width: 20%;
+    height: auto;}
+#Deepstash{
+    width: 60%;
+    height: auto;}
+#Github{
+    padding-top: 12px;
+    width: 40%;
+    height: auto;}
+.author-attributes{
+    font-size: 5px;
+    align-items: center;
+}
